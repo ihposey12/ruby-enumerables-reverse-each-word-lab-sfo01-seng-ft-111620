@@ -3,5 +3,4 @@ def reverse_each_word(strings)
     reversed.reverse
     binding.pry
   end
-  binding.pry
 end
