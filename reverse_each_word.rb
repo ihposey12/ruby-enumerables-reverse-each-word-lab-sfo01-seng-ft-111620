@@ -1,5 +1,5 @@
 def reverse_each_word(strings)
   new_string = string.split("")
-  new_string
+  new_string.each do ||
   end
 end
