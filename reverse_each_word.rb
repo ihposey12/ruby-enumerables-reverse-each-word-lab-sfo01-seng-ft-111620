@@ -2,5 +2,5 @@ def reverse_each_word(strings)
   strings.each do |reversed|
     reversed.reverse
   end
+  binding.pry
 end
-binding.pry
