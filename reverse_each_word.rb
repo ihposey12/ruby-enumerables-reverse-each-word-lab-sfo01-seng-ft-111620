@@ -9,3 +9,4 @@ end
 
 def reverse_each_word(strings)
   array = string.split(" ")
+  test_array = 
